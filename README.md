@@ -1,2 +1,2 @@
-# ML_PROJECTS_PRACTISE
+# Experimental ML Projects for Practise
 Experimenting on various projects while Learning!
